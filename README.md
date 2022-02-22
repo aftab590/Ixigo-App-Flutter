@@ -1,4 +1,4 @@
-# bottom_nav_bar
+# Ixigo - Booking App
 
 A new Flutter project.
 
